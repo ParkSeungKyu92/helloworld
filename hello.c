@@ -24,5 +24,6 @@ int main()
 	printf("I'm your man~~ daradaradara\n");
 	temp();
 	printf("error@@@@@@@@@@@");
+	printf("git hub good \n");
 	return 0;
 }
