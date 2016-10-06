@@ -1,5 +1,10 @@
 #include<stdio.h>
 
+int nano()
+{
+	printf("nanoanannanananananolist");
+	return 1;
+}
 int main()
 {
 	printf("Hello Hi\n");
