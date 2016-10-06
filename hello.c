@@ -1,5 +1,9 @@
 #include<stdio.h>
 
+void tp()
+{
+	printf("yesyesyesyesysey");
+}
 int main()
 {
 	printf("Hi hello \n");
